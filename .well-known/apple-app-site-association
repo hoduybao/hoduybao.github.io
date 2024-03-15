@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "SQP88A8QL7.com.successMania.successManiaMobile",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
