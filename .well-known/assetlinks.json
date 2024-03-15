@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.success_mania.success_mania_mobile",
+            "sha256_cert_fingerprints": [
+                "04:97:F7:05:B5:9F:76:CD:A0:70:91:08:B9:9B:CD:5D:5E:A5:DC:61:02:56:41:08:3F:7A:85:68:B5:64:83:66"
+            ]
+        }
+    }
+]
